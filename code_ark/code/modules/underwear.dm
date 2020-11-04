@@ -6,7 +6,7 @@
 
 
 /datum/category_item/underwear/bottom/fleet_shorts_female
-	name = "Fleet PRT Shorts, Female"
+	name = "Fleet PT Shorts, Female"
 	underwear_name = "fleet_shorts_female"
 	icon_state = "fleet_shorts_female"
 	has_color = TRUE
