@@ -8,7 +8,7 @@
 	new frontiers and new planets to exploit. They were largely not expecting to have entire expeditions lost \
 	amid reports of highly advanced, astonishingly violent mantid-cephlapodean sentients with particle cannons."
 
-	icobase =                 'icons/mob/human_races/species/ascent/alate/body.dmi'
+	icobase =                 'code_ark/icons/mob/species/ascent/alate/body.dmi'
 	deform =                  'icons/mob/human_races/species/ascent/alate/body.dmi'
 	damage_overlays =         'icons/mob/human_races/species/ascent/alate/damage_mask.dmi'
 	blood_mask =              'icons/mob/human_races/species/ascent/alate/blood_mask.dmi'

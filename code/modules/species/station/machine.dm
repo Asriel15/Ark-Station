@@ -9,7 +9,7 @@
 	inhuman in outlook and perspective."
 	cyborg_noun = null
 
-	preview_icon = 'icons/mob/human_races/species/ipc/preview.dmi'
+	preview_icon = 'code_ark/icons/mob/species/ipc/preview.dmi'
 
 	unarmed_types = list(/datum/unarmed_attack/punch, /datum/unarmed_attack/kick, /datum/unarmed_attack/stomp)
 	rarity_value = 2

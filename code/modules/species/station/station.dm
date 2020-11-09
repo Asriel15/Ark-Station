@@ -110,9 +110,9 @@
 /datum/species/skrell
 	name = SPECIES_SKRELL
 	name_plural = SPECIES_SKRELL
-	icobase = 'icons/mob/human_races/species/skrell/body.dmi'
-	deform = 'icons/mob/human_races/species/skrell/deformed_body.dmi'
-	preview_icon = 'icons/mob/human_races/species/skrell/preview.dmi'
+	icobase = 'code_ark/icons/mob/species/skrell/body.dmi'
+	deform = 'code_ark/icons/mob/species/skrell/deformed_body.dmi'
+	preview_icon = 'code_ark/icons/mob/species/skrell/preview.dmi'
 	bandages_icon = 'icons/mob/bandage.dmi'
 	primitive_form = "Neaera"
 	unarmed_types = list(/datum/unarmed_attack/stomp, /datum/unarmed_attack/kick, /datum/unarmed_attack/punch, /datum/unarmed_attack/bite)

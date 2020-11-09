@@ -7,7 +7,7 @@
 	species_flags = SPECIES_FLAG_NO_SCAN
 	spawn_flags = SPECIES_IS_RESTRICTED
 
-	icobase = 'icons/mob/human_races/species/humanoid/body.dmi'
+	icobase = 'code_ark/icons/mob/species/humanoid/body.dmi'
 	deform = 'icons/mob/human_races/species/humanoid/body.dmi'
 	bandages_icon = 'icons/mob/bandage.dmi'
 	appearance_flags = HAS_SKIN_COLOR
